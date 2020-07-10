@@ -1,3 +1,6 @@
+# Ravenous
+This project is a web app that lets users search for different types of restaurants and businesses, using Yelp API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
